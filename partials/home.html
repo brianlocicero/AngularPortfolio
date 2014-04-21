@@ -1,0 +1,8 @@
+<ul class="projects">
+	<li ng-repeat="project in projects">
+		<div>
+			<img ng-src="{{project.imgSrc}}" />
+			<p ng-click="showProject(project.projectId)">{{project.title}}</p>
+		</div>
+	</li>
+</ul>

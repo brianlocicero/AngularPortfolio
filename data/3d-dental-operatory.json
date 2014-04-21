@@ -1,0 +1,9 @@
+[
+	{
+		"name": "3D Dental Operatory",
+		"summary": "I made this big thing.",
+		"gallery": ["img/inspireme.png"],
+		"technologies": "HTML, CSS, JavaScript, JSON, AngularJS",
+		"link": "http://a-dec-inspire.com"
+	}
+]
