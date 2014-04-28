@@ -1,7 +1,7 @@
 [
 	{
 		"name": "3D Dental Operatory",
-		"summary": "I made this big thing.",
+		"summary": "I developed this 3D dental operatory chooser using AngularJS. The app retrieves the 3D renders via JSON and allows the user to create their own room, share the room they’ve created, order samples based on their selections and more. In addition, the Web app is compatible with both desktop and mobile (tablet) browsers..",
 		"gallery": ["img/inspireme.png"],
 		"technologies": "HTML, CSS, JavaScript, JSON, AngularJS",
 		"link": "http://a-dec-inspire.com"
