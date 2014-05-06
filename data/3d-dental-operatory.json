@@ -1,12 +1,16 @@
 [
 	{
 		"name": "3D Dental Operatory",
-		"summary": "I developed this 3D dental operatory chooser using AngularJS. The app retrieves the 3D renders via JSON and allows the user to create their own room, share the room they’ve created, order samples based on their selections and more. In addition, the Web app is compatible with both desktop and mobile (tablet) browsers..",
+		"summary": "I developed this 3D dental operatory chooser using AngularJS. The app allows the user to create their own room, share the room they’ve created, order samples based on their selections and more. The UI is compatible with both desktop and iPad browsers.",
 		"images": [
       {"path": "img/gallery_Adec-1.jpg"},
-      {"path": "img/agilent-infographic.jpg"}
+      {"path": "img/gallery_Adec-2.jpg"},
+      {"path": "img/gallery_Adec-3.jpg"}
     ],
+    "portrait": false,
 		"technologies": "HTML, CSS, JavaScript, JSON, AngularJS",
-		"link": "http://a-dec-inspire.com"
+    "links": [
+      {"text": "http://a-dec-inspire.com", "path": "http://a-dec-inspire.com"}
+    ]
 	}
 ]

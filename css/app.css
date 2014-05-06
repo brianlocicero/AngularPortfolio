@@ -20,25 +20,33 @@ background: #fff;
 }
 
 .header {
-  padding:30px 0 80px 0;
+  padding:30px 0 100px 0;
   display: block;
   margin:0;
   font-family: "Lora", "Georgia", serif;
   color:#121212;
 }
 
+h1 {
+  font-size:1.8em;
+  margin:0 0 15px 0;
+  padding:0;
+  color:#363636;
+}
+
 .header h1 {
   float:left;
   margin:0;
   padding:0;
-  font-size: 1.9em;
+  font-size: 2.1em;
   font-weight: normal;
 }
 
-h1 {
-  font-size:2.2em;
-  margin:0 0 25px 0;
+h3 {
+  margin:0 0 6px 0;
   padding:0;
+  font-size:1.4em;
+  color:#363636;
 }
 
 .header h1 a {
@@ -65,9 +73,9 @@ h1 {
 .menu li a:hover,
 .menu li a:visited {
   text-decoration: none;
-  font-size:1.9em;
+  font-size:2.1em;
   color:#121212;
-  padding:0 0 2px 0;
+  padding:0 0 1px 0;
 }
 
 .menu li a:hover,
@@ -152,22 +160,47 @@ ul.projects li p:hover {
 
 p.project {
   font-size:14px;
+  line-height: 150%;
+  margin-top:0;
+  padding-top:0;
+}
+
+ul.links,
+ul.links li {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  line-height: 100%;
+}
+
+ul.links li {
+  padding:5px 0;
+}
+
+ul.links a {
+  font-size:14px;
+  color:#636363;
 }
 
 div.gallery {
-  width:800px;
-  max-width:800px;
-  margin:0 auto;
+  width:575px;
+  max-width:575px;
+  margin:0 25px 0 0;
+  float:left;
+}
+
+div.gallery.portrait {
+  width:320px;
 }
 
 .rslides_tabs {
   list-style: none;
   padding: 0;
   background: #cccccc;
-  font-size: 18px;
+  font-size: 16px;
   list-style: none;
   margin: 0 auto 25px auto;
-  padding: 10px 0;
+  padding: 6px 0;
   text-align: center;
   width: 100%;
 }
@@ -181,7 +214,7 @@ div.gallery {
 .rslides_tabs a {
   width: auto;
   line-height: 20px;
-  padding: 9px 20px;
+  padding: 6px 20px;
   height: auto;
   background: transparent;
   display: inline;

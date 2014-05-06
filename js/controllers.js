@@ -48,6 +48,11 @@ angular.module('myApp.controllers', [])
 
   	$http.get('data/' + $routeParams.projectId + '.json').success( function(data) {
   		$scope.project = data[0];
+
+      if ( $scope.project.portrait ) {
+        $("div.gallery").addClass("portrait");
+      }
+
   	});
 
     $rootScope.homePage = false;
@@ -55,12 +60,10 @@ angular.module('myApp.controllers', [])
     $rootScope.contactPage = false;
 
     $scope.doComplete = function () {
-      //$(function() {
         $(".rslides").responsiveSlides({
           auto: false,
           pager: true
         });
-      //});
     }
 
   })

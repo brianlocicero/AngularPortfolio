@@ -6,22 +6,7 @@
 	},
 	{
 		"title": "Eye Strain Mobile App",
-		"imgSrc": "img/eyeStrain.jpg",
+		"imgSrc": "img/thumb_eyeStrain.jpg",
 		"projectId": "eye-strain-mobile-app"	
-	},
-	{
-		"title": "3D Dental Operatory",
-		"imgSrc": "img/inspireme.png",
-		"projectId": "3d-dental-operatory"	
-	},
-	{
-		"title": "3D Dental Operatory",
-		"imgSrc": "img/inspireme.png",
-		"projectId": "3d-dental-operatory"	
-	},
-	{
-		"title": "3D Dental Operatory",
-		"imgSrc": "img/inspireme.png",
-		"projectId": "3d-dental-operatory"	
 	}
 ]

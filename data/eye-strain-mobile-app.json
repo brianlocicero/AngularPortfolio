@@ -3,10 +3,18 @@
 		"name": "Eye Strain? Mobile App",
 		"summary": "I developed this app for iOS and Android using Phonegap and Angular.js. The app is localized for 4 languages and allows the user to test digital eye strain, watch videos about eye strain, search for an optician to purchase digital lenses based on their location and more. A major technical challenge was adapting the app to many phones with different screen sizes and capabilities. A combination of responsive design techniques, phonegap native api plugins and custom plugins was used to accomplish the task. In addition, external apis (Google Maps, optician finder) had to be integrated in a seamless way with fallback views for those with location and/or data disabled on their phones.",
     "images": [
-      {"path": "img/inspireme.png"},
-      {"path": "img/agilent-infographic.jpg"}
+      {"path": "img/gallery_eyeStrain1.jpg"},
+      {"path": "img/gallery_eyeStrain2.jpg"},
+      {"path": "img/gallery_eyeStrain3.jpg"},
+      {"path": "img/gallery_eyeStrain4.jpg"},
+      {"path": "img/gallery_eyeStrain5.jpg"},
+      {"path": "img/gallery_eyeStrain6.jpg"}
     ],
+    "portrait": true,
 		"technologies": "PhoneGap, HTML, CSS, JavaScript, JSON, AngularJS, XCode, iOS, Android ADT, Eclipse",
-		"link": "http://a-dec-inspire.com"
+		"links": [
+      {"text": "Get the Android app", "path": "https://play.google.com/store/apps/details?id=com.comparenetworks.digital_lenses"},
+      {"text": "Get the iPhone app", "path": "https://itunes.apple.com/us/app/eye-strain/id722018905?mt=8&uo=4"}
+    ]
 	}
 ]
