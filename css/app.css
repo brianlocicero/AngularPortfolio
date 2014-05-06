@@ -75,6 +75,11 @@ h1 {
   border-bottom:2px solid #121212;
 }
 
+ul.projects {
+  margin:0;
+  padding:0;
+}
+
 ul.projects,
 ul.projects li {
   padding:0;
@@ -91,19 +96,22 @@ ul.projects li {
   float:left;
 }
 
-ul.projects li:nth-child(1) {
+ul.projects li:nth-child(1),
+ul.projects li.left {
   width:300px;
-  padding:0 15px 0 0;
+  padding:30px 15px 0 0;
 }
 
-ul.projects li:nth-child(2) {
+ul.projects li:nth-child(2),
+ul.projects li.middle {
   width:300px;
-  padding:0 15px 0 15px;
+  padding:30px 15px 0 15px;
 }
 
-ul.projects li:nth-child(3) {
+ul.projects li:nth-child(3),
+ul.projects li.right {
   width:300px;
-  padding:0 0 0 15px;
+  padding:30px 0 0 15px;
 }
 
 ul.projects li div {
@@ -144,6 +152,51 @@ ul.projects li p:hover {
 
 p.project {
   font-size:14px;
+}
+
+div.gallery {
+  width:800px;
+  max-width:800px;
+  margin:0 auto;
+}
+
+.rslides_tabs {
+  list-style: none;
+  padding: 0;
+  background: #cccccc;
+  font-size: 18px;
+  list-style: none;
+  margin: 0 auto 25px auto;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.rslides_tabs li {
+  display: inline;
+  float: none;
+  margin:0;
+}
+
+.rslides_tabs a {
+  width: auto;
+  line-height: 20px;
+  padding: 9px 20px;
+  height: auto;
+  background: transparent;
+  display: inline;
+  color:#121212;
+  text-decoration: none;
+}
+
+.rslides_tabs li:first-child {
+  margin-left: 0;
+}
+
+.rslides_tabs .rslides_here a,
+.rslides_tabs a:hover {
+  background: #eee;
+  text-decoration: none;
 }
 
 .reveal-animation.ng-enter {

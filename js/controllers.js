@@ -17,6 +17,32 @@ angular.module('myApp.controllers', [])
     $rootScope.aboutPage = false;
     $rootScope.contactPage = false;
 
+    $scope.liPos = 1;
+
+    $scope.doComplete = function () {
+
+      $("li").each(function(index) {
+
+        switch ($scope.liPos) {
+          case 1:
+            $(this).addClass("left");
+            break;
+          case 2:
+            $(this).addClass("middle");
+            break;
+          case 3:
+            $(this).addClass("right");
+            $scope.liPos = 0;
+            break;
+          default:
+            break;
+        }
+
+        $scope.liPos++;
+
+      });
+    }
+
   })
   .controller('ProjectCtrl', function($scope, $routeParams, $http, $rootScope) {
 
@@ -27,6 +53,15 @@ angular.module('myApp.controllers', [])
     $rootScope.homePage = false;
     $rootScope.aboutPage = false;
     $rootScope.contactPage = false;
+
+    $scope.doComplete = function () {
+      //$(function() {
+        $(".rslides").responsiveSlides({
+          auto: false,
+          pager: true
+        });
+      //});
+    }
 
   })
   .controller('AboutCtrl', function($rootScope) {

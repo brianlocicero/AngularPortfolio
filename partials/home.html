@@ -1,5 +1,5 @@
 <ul class="projects">
-	<li ng-repeat="project in projects">
+	<li ng-repeat="project in projects" my-post-repeat-directive>
 		<div>
 			<img ng-src="{{project.imgSrc}}" />
 			<p ng-click="showProject(project.projectId)">{{project.title}}</p>

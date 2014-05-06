@@ -7,6 +7,13 @@ angular.module('myApp', [
   'ngAnimate',
   'myApp.controllers'
 ]).
+directive('myPostRepeatDirective', function() {
+    return function(scope, element, attrs) {
+      if (scope.$last) {
+        scope.$eval('doComplete()');
+      }
+    };
+}).
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/home', {templateUrl: 'partials/home.html', controller: 'HomeCtrl'});
   $routeProvider.when('/about', {templateUrl: 'partials/about.html', controller: 'AboutCtrl'});
