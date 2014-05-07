@@ -1,0 +1,14 @@
+[
+	{
+		"name": "HTML5 Webinar",
+		"summary": "I was tasked with converting our Flash-based webinar platform into an HTML5/mobile compliant version. Integrating the Brightcove video cloud API with our custom CMS, I developed additional features such as social sharing & transcripts and wrote custom regular expressions allowing the user to search through chapter titles or keywords for the information they wanted.",
+		"images": [
+      {"path": "img/gallery_Webinar.jpg"}
+    ],
+    "portrait": false,
+		"technologies": "HTML5, Social APIs, JavaScript, CSS",
+    "links": [
+      {"text": "Sample Webinar", "path": "http://cnpg.comparenetworks.com/153179-ATCC-Molecular-Signature-Panels-Powerful-tools-for-the-genomics-age/?arev=true"}
+    ]
+	}
+]

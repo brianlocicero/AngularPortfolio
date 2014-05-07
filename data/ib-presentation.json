@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Integrated Biology Presentation",
+		"summary": "An HTML5 slideshow app, specifically designed for offline use inside an iPad app (UIWebView). The app contains interactive videos, animated infographics, 3D carousel image galleries and more. The app communicates to the parent iOS app via a JavaScript bridge, allowing the user to call up related content within the presentation.",
+		"images": [
+      {"path": "img/gallery_Agilent-splash.jpg"},
+      {"path": "img/gallery_Agilent-cards.jpg"},
+      {"path": "img/gallery_Agilent-cell.jpg"},
+      {"path": "img/gallery_Agilent-infographic.jpg"},
+      {"path": "img/gallery_Agilent-menu.jpg"}
+    ],
+    "portrait": false,
+		"technologies": "HTML, CSS, Impress.JS, JavaScript, D3.js",
+    "links": [
+      {"text": "View Online Sample App", "path": "http://brianlocicero.com/projects/agilent-ib-presentation/"}
+    ]
+	}
+]

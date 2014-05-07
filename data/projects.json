@@ -8,5 +8,20 @@
 		"title": "Eye Strain Mobile App",
 		"imgSrc": "img/thumb_eyeStrain.jpg",
 		"projectId": "eye-strain-mobile-app"	
+	},
+	{
+		"title": "Integrated Biology Presentation",
+		"imgSrc": "img/thumb_Agilent.jpg",
+		"projectId": "ib-presentation"	
+	},
+	{
+		"title": "Experimental Capacitive Arduino Distance Sensor",
+		"imgSrc": "img/thumb_Arduino.jpg",
+		"projectId": "arduino"	
+	},
+	{
+		"title": "HTML5 Webinar",
+		"imgSrc": "img/thumb_Webinar.jpg",
+		"projectId": "webinar"	
 	}
 ]

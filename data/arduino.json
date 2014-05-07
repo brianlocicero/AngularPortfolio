@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Experimental Capacitive Arduino Distance Sensor",
+		"summary": "An experimental arduino distance sensor, created using Arduino and Bare Conductive Paint",
+		"images": [
+      {"path": "img/gallery_Arduino.jpg"}
+    ],
+    "portrait": false,
+		"technologies": "Arduino, Bare Conductive Paint",
+    "links": [
+      {"text": "YouTube Video", "path": "https://www.youtube.com/watch?v=bhGsK6Vyaqc"},
+      {"text": "Original Tutorial", "path": "http://www.bareconductive.com/make/building-a-capacitive-proximity-sensor-using-electric-paint/"}
+    ]
+	}
+]
