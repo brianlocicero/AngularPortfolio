@@ -12,7 +12,7 @@
     "portrait": false,
 		"technologies": "HTML, CSS, Impress.JS, JavaScript, D3.js",
     "links": [
-      {"text": "View Online Sample App", "path": "http://brianlocicero.com/projects/agilent-ib-presentation/"}
+      {"text": "View Online Sample App", "path": "javascript:window.open('http://brianlocicero.com/projects/agilent-ib-presentation/', 'ib-presentation', 'width=1024, height=705')"}
     ]
 	}
 ]
