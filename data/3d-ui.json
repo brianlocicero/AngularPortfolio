@@ -1,0 +1,15 @@
+[
+  {
+    "name": "3D WebGL touch UI",
+    "summary": "I designed and developed this basic prototype for a 3D (WebGL) touch UI using Three.js and Hammer.js. Features include rotate, material change and pinch to zoom.",
+    "images": [
+      {"path": "img/webgl-1.jpg"}
+    ],
+    "portrait": false,
+    "technologies": "HTML5, WebGL, Three.JS, Hammer.JS",
+    "links": [
+      {"text": "http://brianlocicero.com/projects/3d-ui/index.html", "path": "http://brianlocicero.com/projects/3d-ui/index.html"},
+      {"text": "YouTube Video", "path": "https://www.youtube.com/watch?v=7vfxGzgQFMg"}
+    ]
+  }
+]
