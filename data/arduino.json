@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Experimental Capacitive Arduino Distance Sensor",
-		"summary": "An experimental arduino distance sensor, created using Arduino and Bare Conductive Paint",
+		"summary": "An experimental arduino distance sensor, created using Arduino and Bare Conductive Paint. The closer you move to the sensor, the higher the values sent to the Arduino sketch. This could be connected to anything from MIDI controls to a website.",
 		"images": [
       {"path": "img/gallery_Arduino.jpg"}
     ],

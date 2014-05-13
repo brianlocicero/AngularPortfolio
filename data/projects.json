@@ -25,7 +25,7 @@
 		"projectId": "webinar"	
 	},
 	{
-		"title": "3D WebGL touch UI",
+		"title": "WebGL touch UI",
 		"imgSrc": "img/thumb_webGL.jpg",
 		"projectId": "3d-ui"
 	}

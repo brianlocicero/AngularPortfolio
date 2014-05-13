@@ -1,6 +1,6 @@
 [
   {
-    "name": "3D WebGL touch UI",
+    "name": "WebGL touch UI",
     "summary": "I designed and developed this basic prototype for a 3D (WebGL) touch UI using Three.js and Hammer.js. Features include rotate, material change and pinch to zoom.",
     "images": [
       {"path": "img/webgl-1.jpg"}
