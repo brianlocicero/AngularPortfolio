@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Biocompare",
+    "summary": "I co-developed a responsive makeover for our flagship site - Biocompare. A major contribution of mine was scripting the menu, which required un-doing the existing DOM manipulation for small screens and then re-applying on resize.",
+    "images": [
+      {"path": "img/gallery_Biocompare1.jpg"},
+      {"path": "img/gallery_Biocompare2.jpg"},
+      {"path": "img/gallery_Biocompare3.jpg"}
+    ],
+    "portrait": true,
+    "technologies": "JavaScript, JQuery, CSS3",
+    "links": [
+      {"text": "View the site", "path": "http://biocompare.com"}
+    ]
+  }
+]
