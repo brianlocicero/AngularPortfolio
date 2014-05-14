@@ -28,5 +28,15 @@
 		"title": "WebGL touch UI",
 		"imgSrc": "img/thumb_webGL.jpg",
 		"projectId": "3d-ui"
+	},
+	{
+		"title": "Viral Science Shooting Game",
+		"imgSrc": "img/sigma1.jpg",
+		"projectId": "sigma"
+	},
+	{
+		"title": "Unity 3D Space Shooter",
+		"imgSrc": "img/space-shooter.jpg",
+		"projectId": "space-shooter"
 	}
 ]

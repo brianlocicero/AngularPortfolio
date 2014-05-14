@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Viral Science Shooting Game",
+    "summary": "This project was a unique combination of a funny science video and shooting game. The user is invited to use the power of shooting fire or turning lab equipment into animals. It's a bit hard to explain. Just try it via the link below.",
+    "images": [
+      {"path": "img/sigma1.jpg"}
+    ],
+    "portrait": false,
+    "technologies": "Flash, Flex, Social APIs",
+    "links": [
+      {"text": "http://brianlocicero.com/projects/sigma/index.html", "path": "http://brianlocicero.com/projects/sigma/index.html"}
+    ]
+  }
+]

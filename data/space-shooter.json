@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Unity 3D Space Shooter",
+    "summary": "A space shooter tutorial I followed to teach myself Unity.",
+    "images": [
+      {"path": "img/space-shooter.jpg"}
+    ],
+    "portrait": false,
+    "technologies": "Unity 3D, C#",
+    "links": [
+      {"text": "Online Sample", "path": "http://brianlocicero.com/projects/space-shooter/index.html"},
+      {"text": "Original Tutorial", "path": "http://unity3d.com/learn/tutorials/projects/space-shooter/"}
+    ]
+  }
+]
