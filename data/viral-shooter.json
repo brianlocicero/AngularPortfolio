@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Viral Video Shooter Game",
+    "summary": "I developed this unique viral video with a shooter game tie-in. It's based around a funny science video that gives the user special powers to transform lab bench objects. It's hard to explain. Just try it via the link below.",
+    "images": [
+      {"path": "img/viralShooter.jpg"}
+    ],
+    "portrait": false,
+    "technologies": "Flash, Flex, JavaScript, Brightcove",
+    "links": [
+      {"text": "Play the game", "path": "http://brianlocicero.com/projects/sigma/index.html"}
+    ]
+  }
+]

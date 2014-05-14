@@ -15,9 +15,9 @@
 		"projectId": "ib-presentation"	
 	},
 	{
-		"title": "Experimental Capacitive Arduino Distance Sensor",
-		"imgSrc": "img/thumb_Arduino.jpg",
-		"projectId": "arduino"	
+		"title": "Biocompare Responsive Menu",
+		"imgSrc": "img/thumb_Biocompare.jpg",
+		"projectId": "biocompare"	
 	},
 	{
 		"title": "HTML5 Webinar",
@@ -30,13 +30,18 @@
 		"projectId": "3d-ui"
 	},
 	{
-		"title": "Viral Science Shooting Game",
-		"imgSrc": "img/sigma1.jpg",
-		"projectId": "sigma"
-	},
-	{
 		"title": "Unity 3D Space Shooter",
 		"imgSrc": "img/space-shooter.jpg",
 		"projectId": "space-shooter"
+	},
+	{
+		"title": "Viral Video Shooter Game",
+		"imgSrc": "img/thumb_viralShooter.jpg",
+		"projectId": "viral-shooter"
+	},
+	{
+		"title": "Experimental Capacitive Arduino Distance Sensor",
+		"imgSrc": "img/thumb_Arduino.jpg",
+		"projectId": "arduino"
 	}
 ]
