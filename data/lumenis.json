@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Sencha Touch Mobile Presentation",
+		"summary": "An HTML5 presentation app designed for iPads using the Sench Touch framework. This app lives inside a native iOS app using UIWebView and communicates with the exterior app via a JavaScript bridge to launch documents, share assets and other functionality.",
+		"images": [
+      {"path": "img/gallery_Lumenis1.jpg"},
+      {"path": "img/gallery_Lumenis2.jpg"},
+      {"path": "img/gallery_Lumenis3.jpg"},
+      {"path": "img/gallery_Lumenis4.jpg"}
+    ],
+    "portrait": false,
+		"technologies": "HTML5, CSS, JavaScript, Sencha Touch",
+    "links": [
+      {"text": "View Web Version", "path": "https://brianlocicero.com/projects/lumenis/index.html"}
+    ]
+	}
+]

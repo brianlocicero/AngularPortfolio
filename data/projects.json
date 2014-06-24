@@ -10,6 +10,11 @@
 		"projectId": "eye-strain-mobile-app"	
 	},
 	{
+		"title": "Sencha Touch Mobile Presentation",
+		"imgSrc": "img/thumb_Lumenis.jpg",
+		"projectId": "lumenis"
+	},
+	{
 		"title": "Integrated Biology Presentation",
 		"imgSrc": "img/thumb_Agilent.jpg",
 		"projectId": "ib-presentation"	
@@ -38,10 +43,5 @@
 		"title": "Viral Video Shooter Game",
 		"imgSrc": "img/thumb_viralShooter.jpg",
 		"projectId": "viral-shooter"
-	},
-	{
-		"title": "Experimental Capacitive Arduino Distance Sensor",
-		"imgSrc": "img/thumb_Arduino.jpg",
-		"projectId": "arduino"
 	}
 ]
